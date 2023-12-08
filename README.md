@@ -1,3 +1,5 @@
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgIJSpy9QiScV8r39Tre2S-iz5myIneJLR3w&usqp=CAU)
+
 <h1 align="center">Hi 👋, I'm Berat</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
